@@ -6,8 +6,8 @@ git pull
 
 if command -v qmake; then
 	qmake
-elif command -v qmake-qt5; then
-	qmake-qt5
+elif command -v qmake-qt6; then
+	qmake-qt6
 else
 	echo "couldn't find a qmake command"
 	exit 1
