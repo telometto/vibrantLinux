@@ -36,7 +36,7 @@ cd ~/vibrantlinux
 
 ## Updates
 
-Head to your installation folder. In our case, it is located at `~/vibrantLinux`. Then, run:
+Head to your installation folder and then, run:
 
 ```bash
 ./update.sh
