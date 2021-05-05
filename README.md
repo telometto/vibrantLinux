@@ -1,4 +1,4 @@
-# vibrantLinux
+# This is a fork of [zee-mzha](https://github.com/zee-mzha/vibrantLinux)'s vibrantLinux
 Main Program:
 
 ![Main program](assets/program.png)
@@ -22,6 +22,9 @@ The required packages are:
 - libxcb
 - libxcb-ewmh
 - [libvibrant](https://gitlab.com/Scrumplex/vibrant/)
+
+### For Fedora
+`dnf install git qt qt6-qtbase qt6-qtbase-devel xcb-utidl-wm xcb-util-wm-devel libxcb libxcb-devel`
 
 ## Installation
 
