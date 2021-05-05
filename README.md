@@ -21,7 +21,7 @@ The required packages are:
 - qt
 - libxcb
 - libxcb-ewmh
-- [libvibrant](https://gitlab.com/Scrumplex/vibrant/)
+- [libvibrant](https://gitlab.com/Scrumplex/vibrant/) (Sefa's original repo) or [my fork of his repo](https://github.com/telometto/libvibrant/).
 
 ### For Fedora
 `dnf install git qt qt6-qtbase qt6-qtbase-devel xcb-utidl-wm xcb-util-wm-devel libxcb libxcb-devel`
@@ -29,7 +29,7 @@ The required packages are:
 ## Installation
 
 ```bash
-git clone https://gitlab.com/zee220/vibrantlinux ~/vibrantlinux
+git clone https://github.com/telometto/vibrantLinux <your destination of choice>
 cd ~/vibrantlinux
 ./update.sh
 ```
