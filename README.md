@@ -24,7 +24,7 @@ The required packages are:
 - [libvibrant](https://gitlab.com/Scrumplex/vibrant/) (Sefa's original repo) or [my fork of his repo](https://github.com/telometto/libvibrant/).
 
 ### For Fedora
-`dnf install git qt qt6-qtbase qt6-qtbase-devel xcb-utidl-wm xcb-util-wm-devel libxcb libxcb-devel`
+`dnf install git qt qt6-qtbase qt6-qtbase-devel xcb-util-wm xcb-util-wm-devel libxcb libxcb-devel`
 
 ## Installation
 
